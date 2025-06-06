@@ -485,7 +485,20 @@ margin-top: 18%;
     margin-left: 40%;
     margin-top: -5%;
   }
-
+  .linea{
+    width: 60%;
+    color: #414141;
+    margin-left: 20%;
+ margin-top: 10%;
+  }
+.parrafocosto{
+  text-align: center;
+  font-family: "Allura", serif;
+  font-size: 50px;
+   color: #eea69d;
+   font-weight: 500;
+margin-top: 10%;
+}
 .linea-1{
   width: 60%;
   color: #414141;
@@ -510,6 +523,14 @@ margin-top: 18%;
   margin-left: 29%;
   margin-top: -15%;
  
+}
+.costodetarjeta{
+  text-align: center;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+  font-size: 20px;
+  color: #303030;
+  font-weight: 500;
+  margin-top: 10%;
 }
 .parrafofinal{
   text-align: center;
