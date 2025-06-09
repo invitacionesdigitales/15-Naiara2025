@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3413.4556796507495!2d-60.14880772440202!3d-31.180376374371527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b495b495df8a7b%3A0x35b154f2c5cc49cc!2sHotel%20cruce%20cayasta!5e0!3m2!1ses-419!2sar!4v1739749468847!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!3m2!1ses!2sar!4v1749472560340!5m2!1ses!2sar!6m8!1m7!1ssKctBa0mBY6_arM32-yDKw!2m2!1d-33.15546589974649!2d-62.8556056003649!3f308.94339174497196!4f-7.948603526652391!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
